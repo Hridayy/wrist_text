@@ -31,5 +31,5 @@ function draw(){
     background("grey") 
     document.getElementById("text_size").innerHTML="The Width And Height of Text will be:-"+difference+"px"
     fill("orange")
-    text("Happy Hanuman Jayati",50,400)
+    text("Happy Hanuman Jayati",noseX,noseY)
 }
